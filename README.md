@@ -13,8 +13,9 @@ Worked with: <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="http
 <a href="https://git-scm.com/" title="Git"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/git-icon.svg" alt="Git" width="21px" height="21px"></a>
 <a href="https://vuejs.org/" title="Vue.js"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/vue.svg" alt="Vue.js" width="21px" height="21px"></a> 
 <a href="https://www.djangoproject.com/" title="Django"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/django.svg" alt="Django" width="21px" height="21px"></a>
+<a href="https://reactjs.org/" title="React"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/react.svg" alt="React" width="21px" height="21px"></a>
 
-Learning: <a href="https://reactjs.org/" title="React"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/react.svg" alt="React" width="21px" height="21px"></a>
+Learning: 
 <a href="https://reactnative.dev/" title="React Native"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/react.svg" alt="React Native" width="21px" height="21px"></a>
 
 Future plans: <a href="https://www.docker.com/" title="Docker"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/docker-icon.svg" alt="Docker" width="21px" height="21px"></a>
