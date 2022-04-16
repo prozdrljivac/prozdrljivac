@@ -15,14 +15,14 @@ Worked with: <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="http
 <a href="https://www.djangoproject.com/" title="Django"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/django.svg" alt="Django" width="21px" height="21px"></a>
 <a href="https://reactjs.org/" title="React"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/react.svg" alt="React" width="21px" height="21px"></a>
 <a href="https://reactnative.dev/" title="React Native"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/react.svg" alt="React Native" width="21px" height="21px"></a>
+<a href="https://flutter.dev/?gclid=Cj0KCQiA0MD_BRCTARIsADXoopbRif2cJ7cirb1O3FsOW8OpY3w6z6HJXfCxletI9urMuRfq_2cvqO8aAhxTEALw_wcB&gclsrc=aw.ds" title="Flutter"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/flutter.svg" alt="Flutter" width="21px" height="21px"></a>
+<a href="https://www.docker.com/" title="Docker"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/docker-icon.svg" alt="Docker" width="21px" height="21px"></a>
 
-Learning: <a href="https://flutter.dev/?gclid=Cj0KCQiA0MD_BRCTARIsADXoopbRif2cJ7cirb1O3FsOW8OpY3w6z6HJXfCxletI9urMuRfq_2cvqO8aAhxTEALw_wcB&gclsrc=aw.ds" title="Flutter"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/flutter.svg" alt="Flutter" width="21px" height="21px"></a>
+Learning: <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/nodejs-icon.svg" alt="Node.js" width="21px" height="21px"></a>
 
 
-Future plans: <a href="https://www.docker.com/" title="Docker"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/docker-icon.svg" alt="Docker" width="21px" height="21px"></a>
-<a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/nodejs-icon.svg" alt="Node.js" width="21px" height="21px"></a>
-<a href="https://golang.org/" title="Golang"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/go.svg" alt="Go" width="21px" height="21px"></a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" title="C#"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/c-sharp.svg" alt="C#" width="21px" height="21px"></a>
-<a href="https://dotnet.microsoft.com/" title=".NET"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/dotnet.svg" alt=".Net" width="21px" height="21px"></a>
+Future plans: Data structures and Algorithms, AWS
+
+
 
 
