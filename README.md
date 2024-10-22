@@ -1,6 +1,6 @@
 ### 👋 About Me
 
-Hi, I'm **Petar**, a **Software Engineer** with **4 years** of experience in Web Development, passionate about all things BE and continuously expanding my knowledge, especially in **DevOps**. Currently, my go-to languages are **Python** and **JavaScript**.
+Hi, I'm **Petar**, a **Software Engineer** with **4 years** of experience in Web Development, passionate about all things **BE** and continuously expanding my knowledge, especially in **DevOps**. Currently, my go-to languages are **Python** and **JavaScript**.
 
 💡 I live by the idea of getting **1% better every day**, striving to refine my skills while helping others grow. Whether I’m solving complex problems or mentoring newcomers, I aim to make a positive impact on my peers and the community.
 
